@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\bin\Debug\net10.0\Usuarios.exe
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\bin\Debug\net10.0\Usuarios.deps.json
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\bin\Debug\net10.0\Usuarios.runtimeconfig.json
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\bin\Debug\net10.0\Usuarios.dll
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\bin\Debug\net10.0\Usuarios.pdb
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\obj\Debug\net10.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\obj\Debug\net10.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\obj\Debug\net10.0\Usuarios.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\obj\Debug\net10.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\obj\Debug\net10.0\Usuarios.dll
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\obj\Debug\net10.0\refint\Usuarios.dll
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\obj\Debug\net10.0\Usuarios.pdb
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\obj\Debug\net10.0\Usuarios.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\Usuarios\obj\Debug\net10.0\ref\Usuarios.dll
