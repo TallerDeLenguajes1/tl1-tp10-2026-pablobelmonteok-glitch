@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\bin\Debug\net10.0\MiWebApi.exe
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\bin\Debug\net10.0\MiWebApi.deps.json
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\bin\Debug\net10.0\MiWebApi.runtimeconfig.json
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\bin\Debug\net10.0\MiWebApi.dll
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\bin\Debug\net10.0\MiWebApi.pdb
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\obj\Debug\net10.0\MiWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\obj\Debug\net10.0\MiWebApi.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\obj\Debug\net10.0\MiWebApi.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\obj\Debug\net10.0\MiWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\obj\Debug\net10.0\MiWebApi.dll
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\obj\Debug\net10.0\refint\MiWebApi.dll
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\obj\Debug\net10.0\MiWebApi.pdb
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\obj\Debug\net10.0\MiWebApi.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\tl1-tp10-2026-pablobelmonteok-glitch\MiWebApi\obj\Debug\net10.0\ref\MiWebApi.dll
